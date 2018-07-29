@@ -1,0 +1,10 @@
+
+IMPORT CV ERROR :
+
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 13 2015, 02:16:59) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> import cv2
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    import cv2
+ImportError: DLL load failed: The specified module could not be found.
